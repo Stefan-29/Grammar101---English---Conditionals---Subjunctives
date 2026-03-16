@@ -42,20 +42,12 @@ temp/
 *.tmp
 
 # Old files (legacy structure)
-app.js
-index.html
 server.ps1
 start-server.cmd
 DOWNLOAD_IMAGES.js
 TEST_IMAGE_SERVICE.js
 draft.txt
 
-# Legacy folders
-# css/
-# config/
-# modules/
-# assets/
-# reproducibility/
 
 # Git
 .git/
