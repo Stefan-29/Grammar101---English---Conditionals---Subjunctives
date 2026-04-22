@@ -160,105 +160,105 @@
     ],
     "gameActivities": [
         {
-            "id": "game-1",
-            "type": "drag-drop",
-            "question": "Zero Conditional – Complete the fact:",
-            "sentence": "If you ____ water to 100°C, it ____.",
-            "options": ["heat / boils", "heated / boils", "heat / boiled", "will heat / boils"],
-            "correctAnswer": ["heat / boils"],
-            "hint": "Present simple in both clauses – no 'will'!",
-            "difficulty": "easy"
-        },
-        {
-            "id": "game-2",
-            "type": "drag-drop",
-            "question": "First Conditional – Future plan:",
-            "sentence": "If I ____ hard, I ____ the test tomorrow.",
-            "options": ["study / will pass", "studied / will pass", "study / would pass", "will study / pass"],
-            "correctAnswer": ["study / will pass"],
-            "hint": "Present simple + will. No 'will' in if-clause!",
-            "difficulty": "easy"
-        },
-        {
-            "id": "game-3",
-            "type": "drag-drop",
-            "question": "Second Conditional – Hypothetical:",
-            "sentence": "If I ____ rich, I ____ buy a yacht.",
-            "options": ["were / would", "was / would", "am / will", "were / will"],
-            "correctAnswer": ["were / would"],
-            "hint": "Past simple + would. Use 'were' for all subjects!",
-            "difficulty": "medium"
-        },
-        {
-            "id": "game-4",
-            "type": "drag-drop",
-            "question": "Third Conditional – Regret:",
-            "sentence": "If she ____ earlier, she ____ the bus.",
-            "options": ["had left / would have caught", "left / would catch", "had left / would catch", "left / would have caught"],
-            "correctAnswer": ["had left / would have caught"],
-            "hint": "Past perfect + would have + past participle.",
-            "difficulty": "medium"
-        },
-        {
-            "id": "game-5",
-            "type": "drag-drop",
-            "question": "Mixed Conditional – Past → Present:",
-            "sentence": "If I ____ medicine, I ____ a doctor now.",
-            "options": ["had studied / would be", "studied / would be", "had studied / would have been", "studied / would have been"],
-            "correctAnswer": ["had studied / would be"],
-            "hint": "Past perfect for past condition + would for present result.",
-            "difficulty": "hard"
-        },
-        {
-            "id": "game-6",
-            "type": "drag-drop",
-            "question": "Zero – Avoid common error:",
-            "sentence": "Ice ____ when you ____ it.",
-            "options": ["melts / heat", "melts / will heat", "melted / heat", "melts / heated"],
-            "correctAnswer": ["melts / heat"],
-            "hint": "Always present simple – never 'will'!",
-            "difficulty": "easy"
-        },
-        {
-            "id": "game-7",
-            "type": "drag-drop",
-            "question": "First – Warning:",
-            "sentence": "Unless you ____ now, you ____ late.",
-            "options": ["leave / will be", "left / will be", "leave / would be", "will leave / be"],
-            "correctAnswer": ["leave / will be"],
-            "hint": "Present simple after 'unless' + will.",
-            "difficulty": "easy"
-        },
-        {
-            "id": "game-8",
-            "type": "drag-drop",
-            "question": "Second – Subjunctive error:",
-            "sentence": "If he ____ taller, he ____ basketball.",
-            "options": ["were / would play", "was / would play", "were / will play", "was / will play"],
-            "correctAnswer": ["were / would play"],
-            "hint": "'Were' for hypothetical – not 'was'!",
-            "difficulty": "medium"
-        },
-        {
-            "id": "game-9",
-            "type": "drag-drop",
-            "question": "Third – No 'would' in if-clause:",
-            "sentence": "If we ____ the map, we ____ lost.",
-            "options": ["had studied / wouldn't have gotten", "studied / wouldn't get", "had studied / wouldn't get", "studied / wouldn't have gotten"],
-            "correctAnswer": ["had studied / wouldn't have gotten"],
-            "hint": "Past perfect – never 'would' in if-clause.",
-            "difficulty": "medium"
-        },
-        {
-            "id": "game-10",
-            "type": "drag-drop",
-            "question": "Mixed – Present condition → Past result:",
-            "sentence": "If I ____ more confident, I ____ the job interview last week.",
-            "options": ["were / would have passed", "was / would pass", "were / would pass", "had been / would have passed"],
-            "correctAnswer": ["were / would have passed"],
-            "hint": "Past simple + would have for present → past mix.",
-            "difficulty": "hard"
-        }
+        "id": "game-1",
+        "type": "drag-drop",
+        "question": "Zero Conditional – Complete the fact:",
+        "sentence": "If you ____ water to 100°C, it ____.",
+        "options": ["heat", "boils", "heated", "boiled"],
+        "correctAnswer": ["heat", "boils"],
+        "hint": "Present simple in both clauses – no 'will'!",
+        "difficulty": "easy"
+    },
+    {
+        "id": "game-2",
+        "type": "drag-drop",
+        "question": "First Conditional – Future plan:",
+        "sentence": "If I ____ hard, I ____ the test tomorrow.",
+        "options": ["study", "will pass", "studied", "would pass"],
+        "correctAnswer": ["study", "will pass"],
+        "hint": "Present simple + will. No 'will' in if-clause!",
+        "difficulty": "easy"
+    },
+    {
+        "id": "game-3",
+        "type": "drag-drop",
+        "question": "Second Conditional – Hypothetical:",
+        "sentence": "If I ____ rich, I ____ buy a yacht.",
+        "options": ["were", "would", "was", "will"],
+        "correctAnswer": ["were", "would"],
+        "hint": "Past simple + would. Use 'were' for all subjects!",
+        "difficulty": "medium"
+    },
+    {
+        "id": "game-4",
+        "type": "drag-drop",
+        "question": "Third Conditional – Regret:",
+        "sentence": "If she ____ earlier, she ____ the bus.",
+        "options": ["had left", "would have caught", "left", "would catch"],
+        "correctAnswer": ["had left", "would have caught"],
+        "hint": "Past perfect + would have + past participle.",
+        "difficulty": "medium"
+    },
+    {
+        "id": "game-5",
+        "type": "drag-drop",
+        "question": "Mixed Conditional – Past → Present:",
+        "sentence": "If I ____ medicine, I ____ a doctor now.",
+        "options": ["had studied", "would be", "studied", "would have been"],
+        "correctAnswer": ["had studied", "would be"],
+        "hint": "Past perfect for past condition + would for present result.",
+        "difficulty": "hard"
+    },
+    {
+        "id": "game-6",
+        "type": "drag-drop",
+        "question": "Zero – Avoid common error:",
+        "sentence": "Ice ____ when you ____ it.",
+        "options": ["melts", "heat", "melted", "heated"],
+        "correctAnswer": ["melts", "heat"],
+        "hint": "Always present simple – never 'will'!",
+        "difficulty": "easy"
+    },
+    {
+        "id": "game-7",
+        "type": "drag-drop",
+        "question": "First – Warning:",
+        "sentence": "Unless you ____ now, you ____ late.",
+        "options": ["leave", "will be", "left", "would be"],
+        "correctAnswer": ["leave", "will be"],
+        "hint": "Present simple after 'unless' + will.",
+        "difficulty": "easy"
+    },
+    {
+        "id": "game-8",
+        "type": "drag-drop",
+        "question": "Second – Subjunctive error:",
+        "sentence": "If he ____ taller, he ____ basketball.",
+        "options": ["were", "would play", "was", "will play"],
+        "correctAnswer": ["were", "would play"],
+        "hint": "'Were' for hypothetical – not 'was'!",
+        "difficulty": "medium"
+    },
+    {
+        "id": "game-9",
+        "type": "drag-drop",
+        "question": "Third – No 'would' in if-clause:",
+        "sentence": "If we ____ the map, we ____ lost.",
+        "options": ["had studied", "wouldn't have gotten", "studied", "wouldn't get"],
+        "correctAnswer": ["had studied", "wouldn't have gotten"],
+        "hint": "Past perfect – never 'would' in if-clause.",
+        "difficulty": "medium"
+    },
+    {
+        "id": "game-10",
+        "type": "drag-drop",
+        "question": "Mixed – Present condition → Past result:",
+        "sentence": "If I ____ more confident, I ____ the job interview last week.",
+        "options": ["were", "would have passed", "was", "would pass"],
+        "correctAnswer": ["were", "would have passed"],
+        "hint": "Past simple + would have for present → past mix.",
+        "difficulty": "hard"
+    }
     ],
     "quizActivities": [
         {
