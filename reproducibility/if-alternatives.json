@@ -214,8 +214,8 @@
             "type": "drag-drop",
             "question": "Common unless error – avoid double negative:",
             "sentence": "Unless you ____ hurry, we'll be late.",
-            "options": ["don't", "not", "", "will"],
-            "correctAnswer": [""],
+            "options": ["don't", "not", " ", "will"],
+            "correctAnswer": [" "],
             "hint": "No 'don't' after unless!",
             "difficulty": "medium"
         },
@@ -323,10 +323,10 @@
         },
         {
             "id": "quiz-7",
-            "question": "'In case' uses which tense after it (for future possibility)?",
+            "question": "Which if alternative should you choose?",
             "sentence": "I'll text you ____ I get lost.",
-            "options": ["will get", "got", "get", "would get"],
-            "correctAnswer": "get",
+            "options": ["suppose", "supposing", "on condition that", "otherwise","in case"],
+            "correctAnswer": "in case",
             "hint": "Present simple after 'in case'.",
             "difficulty": "medium",
             "explanation": "In case + present simple even when referring to future — common error is adding 'will'."
