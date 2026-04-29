@@ -214,8 +214,8 @@
             "type": "drag-drop",
             "question": "Common unless error – avoid double negative:",
             "sentence": "Unless you ____ hurry, we'll be late.",
-            "options": ["don't", "not", " ", "will"],
-            "correctAnswer": [" "],
+            "options": ["don't", "not", "[blank]", "will"],
+            "correctAnswer": ["[blank]"],
             "hint": "No 'don't' after unless!",
             "difficulty": "medium"
         },
